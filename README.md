@@ -2,6 +2,9 @@
 
 Este repositório contém um jogo desenvolvido durante o curso Lógica de Programação da Alura, oferecido como parte do programa Oracle Next Education (ONE).
 
+## JOGUE!
+
+[Jogo](https://jogo-rose-kappa.vercel.app/)
 
 ## 🛠️ Como Usar
 
