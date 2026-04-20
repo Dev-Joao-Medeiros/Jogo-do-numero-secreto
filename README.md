@@ -11,7 +11,7 @@ Este repositório contém um jogo desenvolvido durante o curso Lógica de Progra
 1. Clone este repositório:
 
    ```bash
-   git clone https://github.com/Medeiros20/Jogo-do-numero-secreto.git
+   git clone https://github.com/Dev-Joao-Medeiros/Jogo-do-numero-secreto.git
    ```
 
 2. Acesse a pasta do projeto:
